@@ -10,7 +10,7 @@ A full-stack portfolio project with a React storefront and a Spring Boot REST AP
 - A shopping cart with prices in South African rand
 - Demo checkout that validates and deducts inventory in a single PostgreSQL transaction
 
-Checkout simulates a purchase by updating stock. Payment processing and order history are outside the scope of this demo. Run it locally with test accounts. Product management currently requires sign-in.All signed-in users can browse products, manage the catalogue, and try simulated checkout.
+All signed-in users can browse products, add, edit, and delete products, and try simulated checkout. Checkout updates stock levels only. Payment processing and order history are outside the scope of this demo. To try the app locally, follow the setup instructions below and create a test account.
 
 ## Stack
 
