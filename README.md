@@ -12,6 +12,23 @@ A full-stack portfolio project with a React storefront and a Spring Boot REST AP
 
 All signed-in users can browse products, add, edit, and delete products, and try simulated checkout. Checkout updates stock levels only. Payment processing and order history are outside the scope of this demo. To try the app locally, follow the setup instructions below and create a test account.
 
+## Screenshots
+
+### Product catalogue
+![Product catalogue showing available products and prices in rand](screenshots/Product%20catalog.png)
+
+### Product details
+![Product details page](screenshots/product.png)
+
+### Checkout
+![Shopping cart checkout](screenshots/checkout.png)
+
+### Create an account
+![Account registration page](screenshots/create_account.png)
+
+### Sign in
+![Sign-in page](screenshots/Sign%20in.png)
+
 ## Stack
 
 React, Vite, Axios, Bootstrap, Java 17, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, JDBC, PostgreSQL, Lombok and Maven. Postman was used to test the API.
